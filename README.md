@@ -5,7 +5,7 @@
 
 # 🔗 Encurtador de Links
 
-Um encurtador de URLs desenvolvido em **Java** com **Spring Boot**, que permite transformar links longos em versões curtas e fáceis de compartilhar. Utiliza **PostgreSQL** como banco de dados e está hospedado na nuvem com **Railway**.
+Um encurtador de URL's desenvolvido em **Java** com **Spring Boot**, que permite transformar links longos em versões curtas e fáceis de compartilhar. Utiliza **PostgreSQL** como banco de dados e está hospedado na nuvem com **Railway**.
 
 As URL's encurtadas geradas têm **entre 5 e 10 caracteres**, garantindo unicidade e legibilidade.
 
