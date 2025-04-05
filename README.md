@@ -62,7 +62,7 @@ spring.jpa.hibernate.ddl-auto=update
 | Método           | Endpoint                      | Descrição                                                                              |
 | ---------------- | ----------------------------- | -------------------------------------------------------------------------------------- |
 | <kbd>POST </kbd> | <kbd> /encurta-links</kbd>    | Recebe uma URL longa - [response details](#post-encurta)                               |
-| <kbd>GET </kbd>  | <kbd> /r/{urlEncurtada}</kbd> | Recebe a url encurtada e edireciona para a url original - [response details](#get-encurta) |
+| <kbd>GET </kbd>  | <kbd> /r/{urlEncurtada}</kbd> | Recebe a url encurtada e redireciona para a url original - [response details](#get-encurta) |
 |                  |
 
 <h3 id="post-encurta">🔹 POST  /encurta-links</h3>
