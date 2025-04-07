@@ -25,7 +25,7 @@ Para utilizar a aplicação localmente, é necessário ter instalado em sua máq
 
 ## 🧱 Diagrama
 
-![Image](https://github.com/user-attachments/assets/502c230c-8976-47a5-8034-e651884fb899)
+![Image](https://github.com/user-attachments/assets/968866ef-2c8b-4a8d-982d-c9a102e78157)
 
 ## 🧑‍💻 Tecnologias
 
