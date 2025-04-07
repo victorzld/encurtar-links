@@ -27,7 +27,7 @@ Para utilizar a aplicação localmente, é necessário ter instalado em sua máq
 
 ![Image](https://github.com/user-attachments/assets/502c230c-8976-47a5-8034-e651884fb899)
 
-## 🚀 Tecnologias
+## 🧑‍💻 Tecnologias
 
 - Java 21
 - Spring Boot
